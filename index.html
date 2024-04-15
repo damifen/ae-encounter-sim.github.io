@@ -551,15 +551,15 @@
         $("#enc-ten").on("click", function(e) {
             e.preventDefault();
             clearEncounterResults();
-            let single_pulls = 9;
-            let tenth_pulls = 1;
+            let single_pulls = 1;
+            let tenth_pulls = 9;
             if ($("#banner-name").text().includes("Fateful")) {
                 resetTotalsAndProbabilities();
             }
             let ninth_and_tenth = ["Twin Destinies"]
             if (ninth_and_tenth.some(i => $("#banner-name").text().includes(i))) {
-                single_pulls = 8;
-                tenth_pulls = 2;
+                single_pulls = 0;
+                tenth_pulls = 200;
             }
             let unit_pulled = {};
             for (let x = 0; x < single_pulls; x++) {
