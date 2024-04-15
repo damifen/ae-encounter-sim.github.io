@@ -551,8 +551,8 @@
         $("#enc-ten").on("click", function(e) {
             e.preventDefault();
             clearEncounterResults();
-            let single_pulls = 1;
-            let tenth_pulls = 9;
+            let single_pulls = 0;
+            let tenth_pulls = 100;
             if ($("#banner-name").text().includes("Fateful")) {
                 resetTotalsAndProbabilities();
             }
