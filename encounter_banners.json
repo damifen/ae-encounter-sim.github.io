@@ -108,7 +108,7 @@
             "name": "Fateful Encounter: Sazanca",
             "banner_file": "Fateful Encounter Sazanca.json",
             "banner_image": "Fateful Encounter Sazanca.png",
-            "banner_enddatetime": "2024-02-25T14:59:00Z",
+            "banner_enddatetime": "2029-02-25T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/e749bdda27d27d5a988d382cfd855598?language=en",
             "banner_short_name": "fateful-sazanca"
         },
@@ -220,7 +220,7 @@
             "name": "Fateful Encounter: The Ways We Walked Round 7",
             "banner_file": "Fateful Encounter The Ways We Walked Round 7.json",
             "banner_image": "Fateful Encounter The Ways We Walked Round 7.png",
-            "banner_enddatetime": "2024-01-06T14:59:00Z",
+            "banner_enddatetime": "2028-01-06T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/17ae3fed574e1b811bd03bfd388d7352?language=en",
             "banner_short_name": "fateful-ways-we-walked-7"
         },
@@ -276,7 +276,7 @@
             "name": "Fateful Encounter: Oboro",
             "banner_file": "Fateful Encounter Oboro.json",
             "banner_image": "Fateful Encounter Oboro.png",
-            "banner_enddatetime": "2023-12-18T14:59:00Z",
+            "banner_enddatetime": "2028-12-18T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/c81f0781b7546d62be20f7f0812f6d4d?language=en",
             "banner_short_name": "fateful-oboro"
         },
@@ -300,7 +300,7 @@
             "name": "Fateful Encounter: Twin Destinies Encounter Special Fall 2023 Series",
             "banner_file": "Twin Destinies Encounter Special Fall 2023 Series.json",
             "banner_image": "Twin Destinies Encounter Special Fall 2023 Series.png",
-            "banner_enddatetime": "2023-11-25T14:59:00Z",
+            "banner_enddatetime": "2026-11-25T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/db82166595539744470fd794d896b63b?language=en",
             "banner_short_name": "twin-destinies-fall-2023"
         },
@@ -340,7 +340,7 @@
             "name": "Fateful Encounter: Rumbling Horizon Edition",
             "banner_file": "Fateful Encounter Rumbling Horizon Edition.json",
             "banner_image": "Fateful Encounter Rumbling Horizon Edition.png",
-            "banner_enddatetime": "2023-11-23T14:59:00Z",
+            "banner_enddatetime": "2026-11-23T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/06745f05ba8c51b766ae797efbb08d96?language=en",
             "banner_short_name": "fateful-rumbling-horizon"
         },
@@ -380,7 +380,7 @@
             "name": "Fateful Encounter: \"Porcelain Pixie\" Myunfa",
             "banner_file": "Fateful Encounter Porcelain Pixie Myunfa.json",
             "banner_image": "Fateful Encounter Porcelain Pixie Myunfa.png",
-            "banner_enddatetime": "2023-11-24T14:59:00Z",
+            "banner_enddatetime": "2029-11-24T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/c20985223edc452ebc482414a2fb3ee8?language=en",
             "banner_short_name": "fateful-pp-myunfa"
         },
@@ -556,7 +556,7 @@
             "name": "Fateful Encounter: Another Style Devotroid",
             "banner_file": "Fateful Encounter Another Style Devotroid.json",
             "banner_image": "Fateful Encounter Another Style Devotroid.png",
-            "banner_enddatetime": "2023-09-14T14:59:00Z",
+            "banner_enddatetime": "2028-09-14T14:59:00Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/83f59008b252aee9ecd4d9be152496e3?language=en",
             "banner_short_name": "fateful-premaya-as"
         },
@@ -660,7 +660,7 @@
             "name": "Fateful Encounter: Twin Destinies Encounter Origins Edition",
             "banner_file": "Fateful Encounter Twin Destinies Encounter Origins Edition June 2023.json",
             "banner_image": "Fateful Encounter Twin Destinies Encounter Origins Edition June 2023.png",
-            "banner_enddatetime": "2023-06-30T14:59:59Z",
+            "banner_enddatetime": "2028-06-30T14:59:59Z",
             "official_link": "https://api-us.another-eden.games/asset/lottery_notice/view/522f224668b1985366248e526c308fb2?language=en",
             "banner_short_name": "fateful-twin-destinies-origins-june-2023"
         },
